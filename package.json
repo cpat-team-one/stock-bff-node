@@ -1,7 +1,7 @@
 {
   "name": "stock-bff-node",
   "version": "1.0.0",
-  "org": "my-org",
+  "org": "cpat-team-one",
   "description": "",
   "main": "index.js",
   "config": {
